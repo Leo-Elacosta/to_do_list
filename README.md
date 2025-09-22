@@ -2,10 +2,6 @@
 
 Aplicativo de lista de tarefas para Android, desenvolvido para demonstrar habilidades com as tecnologias mais modernas do ecossistema nativo. Este projeto permite que usuários se cadastrem, gerenciem suas tarefas e tenham seus dados sincronizados em tempo real através do Firebase.
 
-## 📱 Screenshots
-
-![Screenshot da Tela Principal](screenshots/main_screen.png)
-![Screenshot da Tela de Login](screenshots/login_screen.png)
 
 ## ✨ Funcionalidades
 
